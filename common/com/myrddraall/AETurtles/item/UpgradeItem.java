@@ -1,7 +1,7 @@
 package com.myrddraall.AETurtles.item;
 
 import net.minecraft.creativetab.CreativeTabs;
-import cp.mods.core.item.MultiItemItem;
+import cp.mods.core.item.old.MultiItemItem;
 
 public class UpgradeItem extends MultiItemItem
 {

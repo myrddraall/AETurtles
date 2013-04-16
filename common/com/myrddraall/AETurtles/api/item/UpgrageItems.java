@@ -2,7 +2,7 @@ package com.myrddraall.AETurtles.api.item;
 
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
-import cp.mods.core.api.type.item.SubtypedItemType;
+import cp.mods.core.api.type.old.item.SubtypedItemType;
 
 
 public enum UpgrageItems implements SubtypedItemType 

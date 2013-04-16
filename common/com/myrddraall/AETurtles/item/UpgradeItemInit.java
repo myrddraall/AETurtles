@@ -4,8 +4,8 @@ import net.minecraftforge.common.Configuration;
 
 import com.myrddraall.AETurtles.api.item.UpgrageItems;
 
-import cp.mods.core.api.type.IEnumerableType;
-import cp.mods.core.item.SubtypedItemInitializer;
+import cp.mods.core.api.type.old.IEnumerableType;
+import cp.mods.core.item.old.SubtypedItemInitializer;
 
 public class UpgradeItemInit extends SubtypedItemInitializer
 {
